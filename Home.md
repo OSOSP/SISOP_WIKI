@@ -35,3 +35,5 @@ Comando|Para que serve
 `git commit -m "mensagem"`| Coloca uma mensagem no commit das modificações
 `git push origin <nome branch>`| Envia externamente a sua Branch desejada
 `git pull`| Baixa todas as modificações que estão externas mas não no seu computador 
+
+[Teste de Imagem](teste_imagem.md)
