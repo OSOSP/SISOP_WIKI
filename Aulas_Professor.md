@@ -23,3 +23,19 @@
 [![](images/video_images/interrupcoes_3.png)](https://drive.google.com/file/d/1nF3SboV07JzObrLY5YfNiiTBy1T20a19/view?usp=sharing)
 
 ---
+
+### Chamada de Sistema
+
+---
+
+[![](images/video_images/chamada_sistema.png)](https://drive.google.com/open?id=1XLf0lNQ7U1WiprVCWQ69NIPvHRhgppzT)
+
+---
+
+### Gerência de Processos
+
+---
+
+[![](images/video_images/gerencia_de_processos_1.png)](https://drive.google.com/file/d/1BWvuQS-1uaT2lr5Bw_Vn9IcWknwoP2cs/view?usp=sharing)
+
+---
