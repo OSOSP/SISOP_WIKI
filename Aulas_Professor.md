@@ -8,18 +8,18 @@
 
 ---
 
-[![](images/interrupcoes_1.png)](https://drive.google.com/file/d/1QtYSEUHml0RG0WMKlYTmgDfEHSfUbqoz/view?usp=sharing)
+[![](images/video_imagens/interrupcoes_1.png)](https://drive.google.com/file/d/1QtYSEUHml0RG0WMKlYTmgDfEHSfUbqoz/view?usp=sharing)
 
 ---
 
 ---
 
-[![](imagens/interrupcoes_2.png)](https://drive.google.com/file/d/1MfncB2q0VPYDBrvEABIXWVk-uezTnL2l/view?usp=sharing)
+[![](imagens/video_imagens/interrupcoes_2.png)](https://drive.google.com/file/d/1MfncB2q0VPYDBrvEABIXWVk-uezTnL2l/view?usp=sharing)
 
 ---
 
 ---
 
-[![](imagens/interrupcoes_3.png)](https://drive.google.com/file/d/1nF3SboV07JzObrLY5YfNiiTBy1T20a19/view?usp=sharing)
+[![](imagens/video_imagens/interrupcoes_3.png)](https://drive.google.com/file/d/1nF3SboV07JzObrLY5YfNiiTBy1T20a19/view?usp=sharing)
 
 ---
