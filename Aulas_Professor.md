@@ -46,7 +46,7 @@
 
 ---
 
-### Gerência de Memória
+### Dúvidas e Gerência de Memória
 
 ---
 
@@ -56,6 +56,6 @@
 
 ---
 
-[![](images/video_imagens/gerencia_memoria_2.png)]()
+[![](images/video_imagens/gerencia_memoria_2.png)](https://drive.google.com/file/d/1uwPKlkbkwigHwDxyqVXMSmSEVIUjxwId/view?usp=sharing)
 
 ---
