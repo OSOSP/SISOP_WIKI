@@ -56,6 +56,6 @@
 
 ---
 
-[![](images/video_imagens/gerencia_memoria_2.png)](https://drive.google.com/file/d/1uwPKlkbkwigHwDxyqVXMSmSEVIUjxwId/view?usp=sharing)
+[![](images/video_images/gerencia_memoria_2.png)](https://drive.google.com/file/d/1uwPKlkbkwigHwDxyqVXMSmSEVIUjxwId/view?usp=sharing)
 
 ---
