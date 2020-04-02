@@ -14,12 +14,12 @@
 
 ---
 
-[![](imagens/video_images/interrupcoes_2.png)](https://drive.google.com/file/d/1MfncB2q0VPYDBrvEABIXWVk-uezTnL2l/view?usp=sharing)
+[![](images/video_images/interrupcoes_2.png)](https://drive.google.com/file/d/1MfncB2q0VPYDBrvEABIXWVk-uezTnL2l/view?usp=sharing)
 
 ---
 
 ---
 
-[![](imagens/video_images/interrupcoes_3.png)](https://drive.google.com/file/d/1nF3SboV07JzObrLY5YfNiiTBy1T20a19/view?usp=sharing)
+[![](images/video_images/interrupcoes_3.png)](https://drive.google.com/file/d/1nF3SboV07JzObrLY5YfNiiTBy1T20a19/view?usp=sharing)
 
 ---
