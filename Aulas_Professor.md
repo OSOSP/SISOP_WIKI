@@ -1,8 +1,16 @@
+[Página Inicial](Home)|
+|---|
+
 # Videos das Aulas do Professor de Sistemas Operacionais 2020/1
 
-## Clique na Imagem da Aula Desejada
+**PARA ACESSAR O VÍDEO CLIQUE NA IMAGEM DO CONTEÚDO**
+
+---
 
 * [Como Configurar os Videos para aparecer aqui](../tutoriais/video_compartilhado)
+
+---
+
 
 ### Interrupções do Sistema Operacional
 
