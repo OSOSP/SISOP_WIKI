@@ -21,9 +21,10 @@
 
 ---
 
+### Mensagem de Commits
+
 ---
 
-### Mensagem de Commits
 * As mensagens de commit devem ser um resumo do que foi modificado, principalmente em inglês
 
 **Exemplo:**
