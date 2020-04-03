@@ -1,4 +1,4 @@
-[Página Inicial](Home)|
+[Página Inicial](Homme)|
 |---|
 
 # Videos das Aulas do Professor de Sistemas Operacionais 2020/1
@@ -7,7 +7,7 @@
 
 ---
 
-* [Como Configurar os Videos para aparecer aqui](tutoriais/video_compartilhado.md)
+* [Como Configurar os Videos para aparecer aqui](../tutoriais/video_compartilhado)
 
 ---
 
