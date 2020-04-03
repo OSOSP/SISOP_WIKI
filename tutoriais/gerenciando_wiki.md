@@ -87,5 +87,190 @@
 
 ### Conteúdo 4: COMO ESCREVER EM MARKDOWN
 
+---
+
 * Markdown é uma Linguagem de Texto que estrutura como o Texto vai aparecer, essa Wiki toda é feita utilizando essa linguagem.
-* Existem estruturas
+* Existem estruturas especificas para usar quando escreve em Markdown, onde podemos inventar coisas interessantes com elas.
+
+**CRIANDO ABA DE TELAS**
+
+* Podemos criar um Header com todos os Links vinculando telas, onde usamos a seguinte estrutura
+
+```markdown
+[]()
+|---|
+```
+* O simbolo `[]()` serve para colocarmos o nome da tela(nos **[]**) e o link para o Markdown da tela(nos **()**).
+* O simbolo `|---|` serve para estruturar esse link como em uma **Aba**, onde cada link deve ter um desses.
+* Exemplo em Markdown:
+
+```markdown
+[Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
+|---|---|
+```
+
+* Exemplo na prática:
+
+[Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
+|---|---|
+
+
+**COLOCANDO TEXTO EM NEGRITO**
+
+* Podemos colocar o texto que estamos escrevendo em negrito usando `**` em cada lado do texto.
+* Exemplo em Markdown:
+
+```text
+**Texto**
+```
+
+* Exemplo na Prática: **Texto**
+
+**COLOCANDO O TEXTO EM ITÁLICO**
+
+* Podemos colocar o texto que estamos trabalhando em itálico usando `_` em cada lado do texto.
+* Exemplo em Markdown:
+
+```text
+_Texto_
+```
+
+* Exemplo na prática: _Texto_
+
+**MARCANDO TEXTO ESPECIFICO**
+
+* Se usar **`** em cada lado do texto vai fazer com que o texto fique sublinhado
+* Exemplo em Markdown:
+
+```text
+`Texto`
+```
+
+* Exemplo na prática: `Texto`
+
+**CRIANDO TABELAS**
+
+* Podemos criar facilmente tabelas, onde somente temos que dividir em colunas usando **|**.
+* Para marcar o titulo das Colunas, devemos embaixo de cada titulo colocar **|---|**
+* Exemplo em Markdown:
+
+```markdown
+Primeia Coluna | Segunda Coluna
+|---|---|
+Linha 1, Coluna 1| Linha 1, Coluna 2
+Linha 2, Coluna 1| Linha 2, Coluna 2
+```
+
+* Exemplo na Prática:
+
+Primeia Coluna | Segunda Coluna
+|---|---|
+Linha 1, Coluna 1| Linha 1, Coluna 2
+Linha 2, Coluna 1| Linha 2, Coluna 2
+
+**TÍTULOS**
+
+* Podemos colocar um Título em cada página da Wiki usando uma **#** antes de cada titulo
+* Quanto mais **#** colocamos, menor o título vai ficando
+* Exemplo em Markdown:
+
+```markdown
+# Titulo Maior
+## Sub-titulo Menor
+### Menor ainda
+#### Menor ainda
+```
+
+* Exemplo prático:
+
+# Titulo Maior
+## Sub-titulo Menor
+### Menor ainda
+#### Menor ainda
+
+**DIVISÃO DE TEXTOS**
+
+* Usamos os Símbolos **---** antes e depois de um texto para deixar ele separado do resto
+* Exemplo em Markdown:
+
+```markdown
+---
+
+Texto Separado
+
+---
+
+```
+
+* Exemplo na prática:
+
+---
+
+Texto Separado
+
+---
+
+**SEPARANDO TEXTOS**
+
+* Como você pode ter percebido, existe um ponto escuro no inicio de cada linha de texto, esse ponto é um `*` colocado no inicio de cada linha de texto, onde com ele podemos separar o texto em tópicos.
+* Quando mais `*` forem colocado com um espaço ele vai criando sub-tópicos para um assunto.
+* Exemplo em Markdown:
+
+```markdown
+* A
+    * A.1
+        * A.1.1
+            * A.1.1.1
+```
+
+* Exemplo Prático:
+
+* A
+    * A.1
+        * A.1.1
+            * A.1.1.1
+
+* Podemos também usar números, colocando um ponto do lado do número
+* Exemplo em Markdown:
+
+```markdown
+1. A
+    1. A.1
+2. B
+    1. B.1
+        1. B.1.1
+```
+
+* Exemplo na Prática:
+
+1. A
+    1. A.1
+2. B
+    1. B.1
+        1. B.1.1
+
+**COLOCANDO CÓDIGO NO TEXTO**
+
+* Uma coisa incrivel do Markdown é que podemos fazer highlight de código usando a seguinte estrutura em Markdown:
+
+<img src="images/wiki_manager/markdown_code.png">
+
+* Sempre coloque o nome da linguagem que deseja fazer highlight depois dos primeiros **```**
+
+* Na prática fica assim:
+
+```java
+public class Teste{
+    public static void main(String[] args){
+        System.out.println("Hello World"):
+    }
+}
+```
+
+**Link de Acesso Rápido**
+
+* Podemos colocar uma tag em uma área do Texto para o sistema ir mais rápido até o conteúdo se ele for muito extenso.
+
+
+
+
