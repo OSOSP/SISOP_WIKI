@@ -7,7 +7,7 @@
 
 ---
 
-* [Como Configurar os Videos para aparecer aqui](tutoriais/video_compartilhado.md)
+* [Como Configurar os Videos para aparecer aqui](tutoriais/video_compartilhado)
 
 ---
 
