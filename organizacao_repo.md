@@ -18,7 +18,9 @@
    * **Branch para arrumar um Bug existente de outra Branch**
        * Nunca devemos modificar uma Branch já feita Merge e nem direto na Master, para isso criamos outra branch vinda da Master e arrumamos os bugs nela
           * Ex: quando queremos arrumar Funções de uma Branch já Mergeada ou da Master = Nome da Branch: `bugfix_Functions`
-
+    * **Branch para testar um Classe ou Funções**
+      * Quando queremos testar se tem algum problema, criamos uma Branch chamada _test_ e o nome do que se deseja testar
+        * Ex: quando quueremos testar as Funções da CPU = Nome da Branch: `test_CPU`
 ---
 
 ### Mensagem de Commits
