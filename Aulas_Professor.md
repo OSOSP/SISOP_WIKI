@@ -67,3 +67,11 @@
 [![](images/video_images/gerencia_memoria_2.png)](https://drive.google.com/file/d/1uwPKlkbkwigHwDxyqVXMSmSEVIUjxwId/view?usp=sharing)
 
 ---
+
+### Conceitos Básicos de Concorrência
+
+---
+
+[![](images/video_images/concorrencia.png)](https://drive.google.com/file/d/19Fwu5DG9HlwlGefjynrFFSnHW-vViymr/view?usp=sharing)
+
+---
