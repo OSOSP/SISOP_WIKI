@@ -52,11 +52,3 @@
 #### Finalização
 
 * Toda vez que alguem clicar na imagem, vai direto para o Link do Google Drive Público, que somente pode ser acessado por esse Link
-
-**Exemplo**
-
----
-
-<img src="images/google_drive/">
-
----
