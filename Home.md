@@ -13,7 +13,7 @@ Link da Página|Descrição
 [Organização do Repositório](organizacao_repo)| Informações com deve ser o nome das **Branchs**, informação que deve ser colocada nos **Commits** e comandos básicos de **Git**
 [Gerênciando uma Wiki](gerenciando_wiki)| Como funciona uma **Wiki** de um Projeto e como escrever nela
 [Criando Issues](criando_issues)| Como criar Issues no Github
-[Meus Vídeos de Gerênciamento de Repositórios](Meus_Videos)
+[Meus Vídeos sobre Repositórios](Meus_Videos)| Vou postando Vídeos sobre como Mexer com Repositórios no Github
 
 ### Páginas de Informações da Matéria de Sistemas Operacionais
 
