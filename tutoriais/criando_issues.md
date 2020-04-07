@@ -65,7 +65,7 @@
 
 **MILESTONES**
 
-* Milestones não são significantes para nós, elas servem se for feito lançamentos de novidades a cada patch de um projeto, não sendo necessário para pequenos e médios projetos
+* Milestones são uma forma de se separar as Issues em Lançamentos, onde dessa forma podemos saber quais Issues foram trabalhadas em cada parte do projeto, é um bom uso caso se queira separar e organizar as issues abertas e fechadas
 
 **LINKED PULL REQUESTS**
 
@@ -83,6 +83,8 @@
 <img src="images/criando_issues/comment_area.png">
 
 * Bem embaixo da área de comentário você pode tanto comentar ou Fechar a Issue.
+* As informações escritas nos comentários podem ser utilizando Markdown, como explicado [AQUI](gerenciando_wiki)
+
 
 
 
