@@ -362,7 +362,7 @@ public class Teste{
 `#FFD700`
 ```
 
-* Ex: #FFD700
+* Ex: ![#FFD700]   
 
 * Principais Cores: 
 
