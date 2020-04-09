@@ -355,23 +355,22 @@ public class Teste{
 
 **MOSTRANDO CORES NO MARKDOWN**
 
-* Podemos utilizar o Código de Cores Hexadecimais para aparecer em uma Página Escrita em Markdown, só devemos colocar a **#** e o código da cor dentro de **``**.
+* Podemos utilizar o Código de Cores Hexadecimais para aparecer em um comentário de uma Issue em Markdown, só devemos colocar a **#** e o código da cor dentro de **``**.
 * Abaixo uma visualização de como é:
 
 ```text
 `#FFD700`
 ```
 
-* Ex: ![#FFD700]   
+* Ex: 
 
-* Principais Cores: 
+<img src="images/../../images/wiki_manager/hex_color_comment.png">
 
-Nome|Código
-|---|---|
-Amarelo|`#FFFF00`
-Vermelho|`#FF0000`
-Verde|`#008000`
-Azul|`#0000FF`
+* Podemos também usar a tag de css em páginas de wiki ou de README já que a tag acima não funciona
+
+```css
+.style{background-color:#FFD700;}
+```
 
 * Se deseja conhecer mais cores, clique nesse Site: https://www.color-hex.com/
 
