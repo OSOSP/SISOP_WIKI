@@ -362,9 +362,11 @@ public class Teste{
 `#FFD700`
 ```
 
+hsl(0,0%,4%)
+
 * Ex: 
 
-<img src="images/../../images/wiki_manager/hex_color_comment.png">
+<img src="images/wiki_manager/hex_color_comment.png">
 
 * Podemos também usar a tag de css em páginas de wiki ou de README já que a tag acima não funciona
 
