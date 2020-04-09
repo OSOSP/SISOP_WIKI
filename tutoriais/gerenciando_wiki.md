@@ -99,6 +99,7 @@
 * [SEPARANDO TEXTOS](gerenciando_wiki#separacao)
 * [COLOCANDO CÓDIGO NO TEXTO](gerenciando_wiki#codigo)
 * [LINK DE ACESSO RÁPIDO](gerenciando_wiki#links)
+* [COLOCANDO MARCAÇÃO DE TECLADO](gerenciamento_wiki#keyboard)
 * [EMOJIS](gerenciando_wiki#emojis)
 
 ---
@@ -129,6 +130,8 @@
 
 [Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
 |---|---|
+
+|---|
 
 
 <a name="negrito"></a>
