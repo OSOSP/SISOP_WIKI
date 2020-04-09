@@ -112,9 +112,7 @@
 **CRIANDO ABA DE TELAS**
 |---|
 
-| 
-
-* Podemos criar um Header com todos os Links vinculando telas, onde usamos a seguinte estrutura
+| * Podemos criar um Header com todos os Links vinculando telas, onde usamos a seguinte estrutura
 
 ```markdown
 []()
@@ -132,9 +130,7 @@
 * Exemplo na prática:
 
 [Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
-|---|---|
-
-|
+|---|---||
 
 
 
