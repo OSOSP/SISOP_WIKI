@@ -75,3 +75,11 @@
 [![](images/video_images/concorrencia.png)](https://drive.google.com/file/d/19Fwu5DG9HlwlGefjynrFFSnHW-vViymr/view?usp=sharing)
 
 ---
+
+### Conceitos Básicos de Sessão Crítica
+
+---
+
+[![](images/video_images/sessao_critica.png)](https://drive.google.com/file/d/1VWUeVwQSAIcjKzaetMHqECm0Zq4H229a/view?usp=sharing)
+
+---

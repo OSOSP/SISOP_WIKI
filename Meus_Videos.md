@@ -2,6 +2,8 @@
 
 ---
 
-[![](images/video_images/issues_github.png)](https://www.youtube.com/watch?v=jhYu9thcJNI)
+[![](images/video_images/issues_github.png)](https://youtu.be/XEwH48El_1s)
 
 ---
+
+[![](images/video_images/projects_github.png)](https://youtu.be/XjobnItmYWg)
