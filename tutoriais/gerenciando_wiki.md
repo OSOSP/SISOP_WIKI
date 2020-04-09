@@ -89,6 +89,7 @@
 * [COLOCANDO CÓDIGO NO TEXTO](gerenciando_wiki#codigo)
 * [LINK DE ACESSO RÁPIDO](gerenciando_wiki#links)
 * [COLOCANDO MARCAÇÃO DE TECLADO](gerenciamento_wiki#keyboard)
+* [COLOCANDO CÓDIGO HEX DE CORES](gerenciamento_wiki#colors)
 * [EMOJIS](gerenciando_wiki#emojis)
 
 * Markdown é uma Linguagem de Texto que estrutura como o Texto vai aparecer, essa Wiki toda é feita utilizando essa linguagem.
@@ -154,9 +155,10 @@ _Texto_
 
 <a name="marcado"></a>
 
-**MARCANDO TEXTO ESPECIFICO**
-
 ---
+
+
+**MARCANDO TEXTO ESPECIFICO**
 
 * Se usar **`** em cada lado do texto vai fazer com que o texto fique sublinhado
 * Exemplo em Markdown:
@@ -329,6 +331,49 @@ public class Teste{
 ```
 
 * Dessa forma, podemos colocar o Link no inicio desse Arquivo(que já existe) e ele vai enviar o arquivo direto para onde se encontra a tag, salvando tempo de ficar procurando texto.
+
+<a name="keyboard"></a>
+
+---
+
+**COMO MARCAR TECLAS DO TECLADO EM MARKDOWN**
+
+* Existe uma tag de html que podemos usar para deixar diferenciado uma tecla de teclado, para facilitar o entendimento do que se deve fazer.
+* Utilizamos a seguinte tag
+
+```html
+<kbd>L</kbd>
+```
+
+* No exemplo acima, a tecla L vai ficar diferenciada no texto, sendo fácil de entender que ela é uma tecla do teclado.
+
+* Ex: Como abrir um Terminal Linux no Teclado: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
+
+<a name="colors"></a>
+
+---
+
+**MOSTRANDO CORES NO MARKDOWN**
+
+* Podemos utilizar o Código de Cores Hexadecimais para aparecer em uma Página Escrita em Markdown, só devemos colocar a **#** e o código da cor dentro de **``**.
+* Abaixo uma visualização de como é:
+
+```text
+`#FFD700`
+```
+
+* Ex: `#FFD700`
+
+* Principais Cores: 
+
+Nome|Código
+|---|---|
+Amarelo|`#FFFF00`
+Vermelho|`#FF0000`
+Verde|`#008000`
+Azul|`#0000FF`
+
+* Se deseja conhecer mais cores, clique nesse Site: https://www.color-hex.com/
 
 
 <a name="emojis"></a>
