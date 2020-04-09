@@ -8,8 +8,6 @@
 
 ### Conteúdo 1: NÃO ALTERAR A WIKI PELA WEB
 
----
-
 * A wiki, sendo no Github,Gitlab ou BitBucket funcionam de duas Formas:
     1. Pode Gerênciar uma Página pela própria Web 
     2. Pode Gerênciar as Páginas usando um Editor de Texto
@@ -17,11 +15,8 @@
 * A primeira forma é a pior forma de mexer com Wikis, devido que como trabalhamos com imagens e links, é extremamente não prático mexermos com essas informações pela web
 * Imagens e Links podem quebrar se for mudado de localização e isso pode ser uma grande dor de cabeça com o tempo, para isso usamos editores de texto para trabalharmos.
 
----
 
 ### Conteúdo 2: COMO GERÊNCIAR SUA WIKI
-
----
 
 * Uma Wiki nada mais é que um Repositório que pode ser baixado para editar, onde funciona da seguinte forma:
     * O link de um repositório normal, como este, para clonar é o seguinte:
@@ -34,11 +29,7 @@
 
 <img src="images/wiki_manager/wiki_clone.gif">
 
----
-
 ### Conteúdo 3: COMO COLOCAR IMAGENS
-
----
 
 * Nunca coloque uma imagem como **Attach** direto pela web, porque com isso a imagem fica em um limbo de links aleatorios criados pelo Github, fazendo com que quando migrar a wiki é perdido todas as fotos e videos.
 
@@ -83,8 +74,6 @@
 ![minha imagem](images/sovaco_logo.png)
 ```
 
----
-
 ### Conteúdo 4: COMO ESCREVER EM MARKDOWN
 
 #### GLOSSÁRIO
@@ -102,15 +91,14 @@
 * [COLOCANDO MARCAÇÃO DE TECLADO](gerenciamento_wiki#keyboard)
 * [EMOJIS](gerenciando_wiki#emojis)
 
----
-
 * Markdown é uma Linguagem de Texto que estrutura como o Texto vai aparecer, essa Wiki toda é feita utilizando essa linguagem.
 * Existem estruturas especificas para usar quando escreve em Markdown, onde podemos inventar coisas interessantes com elas.
 
 <a name="abaTelas"></a>
 
+---
+
 **CRIANDO ABA DE TELAS**
-|---|
 
 | * Podemos criar um Header com todos os Links vinculando telas, onde usamos a seguinte estrutura
 
@@ -130,11 +118,13 @@
 * Exemplo na prática:
 
 [Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
-|---|---||
+|---|---|
 
 
 
 <a name="negrito"></a>
+
+---
 
 **COLOCANDO TEXTO EM NEGRITO**
 
@@ -148,6 +138,8 @@
 * Exemplo na Prática: **Texto**
 
 <a name="italico"></a>
+
+---
 
 **COLOCANDO O TEXTO EM ITÁLICO**
 
@@ -164,6 +156,8 @@ _Texto_
 
 **MARCANDO TEXTO ESPECIFICO**
 
+---
+
 * Se usar **`** em cada lado do texto vai fazer com que o texto fique sublinhado
 * Exemplo em Markdown:
 
@@ -174,6 +168,8 @@ _Texto_
 * Exemplo na prática: `Texto`
 
 <a name="tabelas"></a>
+
+---
 
 **CRIANDO TABELAS**
 
@@ -198,6 +194,8 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
 
 <a name="titulos"></a>
 
+---
+
 **TÍTULOS**
 
 * Podemos colocar um Título em cada página da Wiki usando uma **#** antes de cada titulo
@@ -219,6 +217,8 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
 #### Menor ainda
 
 <a name="divisao"></a>
+
+---
 
 **DIVISÃO DE TEXTOS**
 
@@ -243,6 +243,8 @@ Texto Separado
 ---
 
 <a name="separacao"></a>
+
+---
 
 **SEPARANDO TEXTOS**
 
@@ -286,6 +288,8 @@ Texto Separado
 
 <a name="codigo"></a>
 
+---
+
 **COLOCANDO CÓDIGO NO TEXTO**
 
 * Uma coisa incrivel do Markdown é que podemos fazer highlight de código usando a seguinte estrutura em Markdown:
@@ -305,6 +309,8 @@ public class Teste{
 ```
 
 <a name="links"></a>
+
+---
 
 **LINK DE ACESSO RÁPIDO**
 
@@ -326,6 +332,8 @@ public class Teste{
 
 
 <a name="emojis"></a>
+
+---
 
 **EMOJIS**
 
