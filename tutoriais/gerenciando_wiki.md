@@ -110,6 +110,9 @@
 <a name="abaTelas"></a>
 
 **CRIANDO ABA DE TELAS**
+|---|
+
+| 
 
 * Podemos criar um Header com todos os Links vinculando telas, onde usamos a seguinte estrutura
 
@@ -131,7 +134,8 @@
 [Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
 |---|---|
 
-|---|
+|
+
 
 
 <a name="negrito"></a>
