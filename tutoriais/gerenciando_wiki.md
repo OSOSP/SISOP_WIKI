@@ -360,19 +360,12 @@ public class Teste{
 
 ```text
 `#FFD700`
-```
-
-hsl(0,0%,4%)
+```   
 
 * Ex: 
 
 <img src="images/wiki_manager/hex_color_comment.png">
 
-* Podemos também usar a tag de css em páginas de wiki ou de README já que a tag acima não funciona
-
-```css
-.style{background-color:#FFD700;}
-```
 
 * Se deseja conhecer mais cores, clique nesse Site: https://www.color-hex.com/
 
