@@ -16,19 +16,7 @@
 
 ---
 
-[![](images/video_images/interrupcoes_1.png)](https://drive.google.com/file/d/1QtYSEUHml0RG0WMKlYTmgDfEHSfUbqoz/view?usp=sharing)
-
----
-
----
-
-[![](images/video_images/interrupcoes_2.png)](https://drive.google.com/file/d/1MfncB2q0VPYDBrvEABIXWVk-uezTnL2l/view?usp=sharing)
-
----
-
----
-
-[![](images/video_images/interrupcoes_3.png)](https://drive.google.com/file/d/1nF3SboV07JzObrLY5YfNiiTBy1T20a19/view?usp=sharing)
+[![](images/video_images/sisop_interrupcoes.png)](https://drive.google.com/open?id=1JjjDE8W1HuC-GYytUYCcZu7LDOmcqRAT)
 
 ---
 
@@ -36,7 +24,7 @@
 
 ---
 
-[![](images/video_images/chamada_sistema.png)](https://drive.google.com/open?id=1XLf0lNQ7U1WiprVCWQ69NIPvHRhgppzT)
+[![](images/video_images/sisop_chamadaSistema.png)](https://drive.google.com/file/d/1-REGCBmlSJCOrS7CADIzMJx08E-jwOC6/view?usp=sharing)
 
 ---
 
