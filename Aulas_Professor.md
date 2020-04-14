@@ -1,4 +1,4 @@
-[Página Inicial](Homme)|
+[Página Inicial](Home)|
 |---|
 
 # Videos das Aulas do Professor de Sistemas Operacionais 2020/1
