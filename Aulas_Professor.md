@@ -32,27 +32,15 @@
 
 ---
 
-[![](images/video_images/gerencia_de_processos_1.png)](https://drive.google.com/file/d/1BWvuQS-1uaT2lr5Bw_Vn9IcWknwoP2cs/view?usp=sharing)
+[![](images/video_images/sisop_gerenciaProcessos.png)](https://drive.google.com/open?id=1w9a8rHnmO6EQjIkO0Qtg0N2sYrctIsc4)
 
 ---
 
----
-
-[![](images/video_images/gerencia_de_processos_2.png)](https://drive.google.com/file/d/1kI4ywlteQaF2ZogZWKevPAoeCsXOUspU/view?usp=sharing)
+### Gerência de Memória
 
 ---
 
-### Dúvidas e Gerência de Memória
-
----
-
-[![](images/video_images/gerencia_memoria_1.png)](https://drive.google.com/file/d/13YWM9U6T-NPXfNrKI3OHsKiSbX7Fo9BK/view?usp=sharing)
-
----
-
----
-
-[![](images/video_images/gerencia_memoria_2.png)](https://drive.google.com/file/d/1uwPKlkbkwigHwDxyqVXMSmSEVIUjxwId/view?usp=sharing)
+[![](images/video_images/sisop_gerenciaMemoria.png)](https://drive.google.com/open?id=1zesMuzmhXGoeJPVkYwocrAq4GoQuuLnU)
 
 ---
 
