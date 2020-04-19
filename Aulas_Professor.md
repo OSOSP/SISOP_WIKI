@@ -48,7 +48,7 @@
 
 ---
 
-[![](images/video_images/concorrencia.png)](https://drive.google.com/file/d/19Fwu5DG9HlwlGefjynrFFSnHW-vViymr/view?usp=sharing)
+[![](images/video_images/sisop_concorrencia.png)](https://drive.google.com/open?id=13T7zm5kLQ0AvjsN1BSRsjtzb2CFQI4Xv)
 
 ---
 
