@@ -56,6 +56,6 @@
 
 ---
 
-[![](images/video_images/sessao_critica.png)](https://drive.google.com/file/d/1VWUeVwQSAIcjKzaetMHqECm0Zq4H229a/view?usp=sharing)
+[![](images/video_images/sisop_sessaoCritica.png)](https://drive.google.com/file/d/12pfnV2IF3Nb9_emaUu9Cl5iqmPJNWBYf/view?usp=sharing)
 
 ---
